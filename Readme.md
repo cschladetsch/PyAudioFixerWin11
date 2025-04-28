@@ -2,6 +2,10 @@
 
 This guide provides step-by-step instructions for troubleshooting and fixing audio issues on Windows 11, with a special focus on Realtek audio drivers.
 
+## Demo
+
+[Demo](resources/Untitled.jpg)
+
 ## Quick Diagnosis
 
 Your system shows:
